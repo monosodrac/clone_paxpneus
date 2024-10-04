@@ -10,15 +10,16 @@
         &__item {
             display: flex;
             align-items: center;
+            text-align: center;
             margin: 4rem 0;
-            font-size: 1rem;
-
+            
             div {
                 padding: .4rem .5rem;
                 border: 3px solid #ffa600;
                 border-radius: 90px;
                 margin-right: .4rem;
                 font-weight: 800;
+                font-size: 1rem;
                 line-height: 1.2rem;
                 color: #ffa600;
             }

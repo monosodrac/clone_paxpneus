@@ -2,6 +2,7 @@
 @use 'header';
 @use 'hero';
 @use 'buscar';
+@use 'ofertas';
 
 * {
     margin: 0;
@@ -9,6 +10,7 @@
     box-sizing: border-box;
     font-family: Roboto, Jost;
     list-style: none;
+    overflow-x: hidden;
 }
 
 .container {
