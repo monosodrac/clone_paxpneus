@@ -11,6 +11,7 @@
         border: 1px solid rgba(0, 0, 0, .3);
         border-top: none;
         border-radius: 0 0 5px 5px;
+        overflow: hidden;
 
         .first-msg {
             font-family: "Montserrat", Jost;
@@ -60,6 +61,12 @@
             font-weight: bold;
             color: #fff;
             text-decoration: none;
+            transition: transform 1s ease;
+
+            &:hover {
+                background-color: lighten(#000, 3%);
+                transition: transform 1s ease;
+            }
         }
     }
 }

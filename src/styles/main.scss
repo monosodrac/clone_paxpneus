@@ -10,14 +10,13 @@
     box-sizing: border-box;
     font-family: Roboto, Jost;
     list-style: none;
-    overflow-x: hidden;
 }
 
 .container {
     margin: 0 5rem;
 }
 
-@mixin text($fontSize: 1.4rem) {
+@mixin text($fontSize: 1.5rem) {
     font-size: $fontSize;
     color: #333;
     text-align: center;
