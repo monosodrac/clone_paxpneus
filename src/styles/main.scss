@@ -3,6 +3,9 @@
 @use 'hero';
 @use 'buscar';
 @use 'ofertas';
+@use 'carrossel1';
+@use 'banner';
+@use 'footer';
 
 * {
     margin: 0;
@@ -12,7 +15,7 @@
     list-style: none;
 }
 
-.container {
+.ctner {
     margin: 0 5rem;
 }
 

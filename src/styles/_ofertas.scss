@@ -2,6 +2,8 @@
 @use 'keyframes';
 
 .ofertas {
+    margin: 4rem 0;
+
     &__tabs {
         display: grid;
         grid-template-columns: repeat(5, 1fr);
