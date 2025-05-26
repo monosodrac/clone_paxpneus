@@ -14,13 +14,13 @@ Este é um projeto sem fins lucrativos desenvolvido com a finalidade de estudo. 
 
 - **Design Responsivo:** O layout do site é projetado para ser totalmente responsivo, garantindo uma boa experiência de usuário em dispositivos móveis e desktops. Utilizamos técnicas modernas como **Flexbox** e **CSS Grid** para criar um design adaptável e fluido.
 
-- **Estrutura Modular:** O código foi estruturado de maneira modular, separando os componentes de estilo, JavaScript e HTML para facilitar a manutenção e escalabilidade do projeto.
+- **Estrutura Modular:** O código foi estruturado de maneira modular, separando os componentes de estilo e HTML para facilitar a manutenção e escalabilidade do projeto.
 
 ---
 
 ### Funcionalidades:
 
-- **Construção Automatizada:** Através do Gulp, todas as tarefas repetitivas, como a compilação do Sass, a minificação de arquivos JavaScript e a otimização de imagens, são realizadas automaticamente, aumentando a eficiência do processo de desenvolvimento.
+- **Construção Automatizada:** Através do Gulp, todas as tarefas repetitivas, como a compilação do Sass, a otimização de imagens, são realizadas automaticamente, aumentando a eficiência do processo de desenvolvimento.
 
 - **Design Interativo e Limpo:** O projeto replica a estrutura e o design da PaxPneus, com uma interface limpa, fácil de navegar e otimizada para diferentes dispositivos.
 
@@ -32,7 +32,6 @@ Este é um projeto sem fins lucrativos desenvolvido com a finalidade de estudo. 
 
 - **HTML5**
 - **CSS3** (com **Sass**)
-- **JavaScript**
 - **Gulp** (para automação de tarefas)
 - **Fontes do Google Fonts** (Roboto, Open Sans)
 - **Flexbox** e **CSS Grid** para layout responsivo
