@@ -39,6 +39,7 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
+        margin: 0 1rem;
 
         @media (max-width: 767px) {
             flex-direction: column;
@@ -48,10 +49,6 @@
             margin: 1rem;
         }
 
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        margin: 0 1rem;
 
         input {
             padding: 1rem;
